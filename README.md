@@ -1,9 +1,13 @@
 <h1 align="center">Ryan Martin</h1>
 <h3 align="center">Business Intelligence Analyst </h3>
 <img align= "right" alt="Coding" width="400" src="https://assets.editorial.aetnd.com/uploads/2009/11/yosemite-3.jpg"
+
+  
 - 🌱 I’m currently learning **MI, DL , and AI**
-- 💬 Ask me about **Python, **
-- 📫 How to reach me **ryanmartinsd@gmail.com**
+- 💬 Ask me about **Python, SQL, and Data Analytics**
+- 📫 Email: **ryanmartinsd@gmail.com**
+- 📞 Phone Number: **(619)467-9743**
+
 
 <div> <a href="https://www.linkedin.com/in/ryanmartinusa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Ryan1Marti" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
