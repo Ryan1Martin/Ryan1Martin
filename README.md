@@ -1,5 +1,5 @@
 <h1 align="center">Ryan Martin</h1>
-<h3 align="center">Business Intelligence Analyst </h3>
+<h3 align="center"> Be The Change You Want To See </h3>
 <img align= "right" alt="Coding" width="400" src="https://assets.editorial.aetnd.com/uploads/2009/11/yosemite-3.jpg"
 
   
